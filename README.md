@@ -11,3 +11,9 @@
 ## Currently supported vendors
 
 * mysql
+
+
+## Currently supported formats
+
+* html
+* pdf
